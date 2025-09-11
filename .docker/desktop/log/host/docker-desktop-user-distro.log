@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------->8
+[2025-09-04T11:38:46.507736949Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/B<USER>/.docker/contexts
+[2025-09-04T11:38:46.526472049Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/B<USER>/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/B<USER>/.docker/contexts
+-------------------------------------------------------------------------------->8
+[2025-09-04T11:38:46.991445853Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/B<USER>/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+[2025-09-04T11:38:47.507904653Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/B<USER>/.azure, linkPath = <HOME>/.azure
+[2025-09-04T11:38:47.520758753Z][docker-desktop-user-distro][F] <HOME>/.azure already exists and is not a symlink
+[main.main()
+[	linuxkit/pkg/docker-desktop-user-distro/main.go:634 +0x50
+-------------------------------------------------------------------------------->8
+[2025-09-04T11:38:48.002223753Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/B<USER>/.docker/features.json, linkPath = ~/.docker/features.json
